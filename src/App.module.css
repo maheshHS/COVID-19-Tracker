@@ -1,0 +1,23 @@
+
+
+.MainHeading {
+  margin: 2% .3% !important;
+  font-family: 'Chilanka', cursive !important;
+  font-size: 3.5rem;
+  font-weight: lighter;
+  //color: rgb(137, 210, 158);
+  padding-top: 18px;
+  color: #33884c;
+}
+
+.Logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.backdrop {
+  z-index: 1;
+  color: '#fff';
+}

@@ -1,0 +1,24 @@
+
+.Card {
+  width: 200px;
+  margin: 2% 2%;
+
+}
+
+.Deaths {
+  border-bottom: 4px solid red;
+}
+
+.Active {
+  border-bottom: 4px solid blue;
+}
+
+.Discharged {
+  border-bottom: 4px solid green;
+}
+
+@media (max-width: 610px) {
+  .Card{
+    width: 80%;
+  }
+}
