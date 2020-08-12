@@ -2,7 +2,7 @@ Covid 19 Tracker:
 
 Project is built using React.
 
-Data is being fetched using : https://api.rootnet.in/covid19-in/stats/latest.
+Data is fetched using : https://api.rootnet.in/covid19-in/stats/latest.
 Visit https://github.com/amodm/api-covid19-in for more details on the API.
 
 
